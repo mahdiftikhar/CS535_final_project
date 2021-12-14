@@ -1,0 +1,3 @@
+pip install nbmerge
+
+nbmerge file_1.ipynb file_2.ipynb file_3.ipynb > merged.ipynb
